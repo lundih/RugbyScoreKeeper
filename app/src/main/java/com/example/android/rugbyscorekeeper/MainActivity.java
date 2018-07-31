@@ -8,8 +8,8 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
-    int scoreA;//score for team A (New Zealand)
-    int scoreB;//score  for team B (Wales)
+    int scoreA;//score for team A
+    int scoreB;//score  for team B
     int numberOfTriesA;//keeps number of tries scored for Team A
     int numberOfTriesB;//keeps number of tries scored for Team B
     int numberOfConversionsA;//keeps number of conversions scored for Team A
